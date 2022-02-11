@@ -6,7 +6,7 @@ Instructions:
 
 1. Download the latest release here:https://github.com/dgrtygry/Firedeb-Desktop-Live-ISO/releases. You need to look for the file labled "mini.iso".
 
-2. Plug in a flash drive and open a terminal and type in "sudo dd if=/home/admini/Downloads/mini.iso of=/dev/sda bs=1m" without the quotation marks.
+2. Plug in a flash drive and open a terminal and type in "sudo dd if=/home/admini/Downloads/mini.iso of=/dev/sda" without the quotation marks.
 
 3. Reboot your PC and go to your bootmenu. (Some computer models have different boot keys).
 
